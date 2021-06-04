@@ -1,0 +1,36 @@
+﻿Company,compitator_type,consumption_format,investment,revenue,acquisitions,target_segment ,service,keywords,country,website_hits
+The Wall Street Journal,Direct,Text,,600000000,,General,Newspaper,WallStreetJournal,USA,505000
+The New York Times,Direct,Text,66,1800000000,16,General,Newspaper,new york times,USA,4300
+The Washington Post,Direct,Text,6,709000000,6,General,Journal ,washington post,USA,896700
+The Economist,Direct,Text,9,404000000,9,Business,Newspaper,the economist,USA,226400
+Financial Times,Direct,Text,21,452500000,21,Finance,Newspaper,,UK ,257780
+Bloomberg,Direct,Text,15,10500000000,15,Business,Newspaper,wellsfargo,USA,976500
+Reuters,Direct,Text,34,339900000,34,General,Newspaper ,reuters,UK ,554700
+Fortune,Direct,Text,1,1100000000,1,Business,Magazine,mary g. ross,USA,435400
+Business Insider,Direct,Text,1,100000000,1,Business,Digital article,google flights,USA,1400000
+NBC News,Direct,Text,3,2000000000,1,General,Digital article,nbc news,USA,429700
+USA Today,Direct,Text,,875400000,2,General,Newspaper ,mlb standings,USA,1100000
+Bloomberg Television (American channel produced by Bloomberg LP).,Indirect,Video,,10000000000,15,Business,Television,wellsfargo,USA,976500
+Business News Network (Canadian channel produced by CTVglobemedia).,Indirect,Video,,7000000,,Business,Television ,bnn,Canada ,89600
+Cheddar,Indirect,Video,15,11300000,3,Business,Television,cheddar,USA,11400
+CNBC (American channel produced by NBCUniversal).,Indirect,Video,2,400000000,,Business,Television ,amazon,USA,723000
+Económico TV (former Portuguese channel produced by Ongoing Strategy Investments),Indirect,Video,,1640000,,Economy,Television,,Portugal ,0
+ET Now (Indian channel produced by the Times Group),Indirect,Video,,190000000,,Economy,Television,usd to inr,India,235900
+Fox Business Network,Indirect,Video,,11000000000,,Business,Television,fox news,USA,482200
+Sky News Business Channel,Indirect,Video,,18600000000,,Business,Television,sky news,Australia,67900
+Biz Television,Indirect,Video,,505700000,,Business,Television,biz tv,USA,159
+BTVI (Business Television India),Indirect,Video,1,28000000,,Business,Television ,,India,0
+CNBC TV18 (Business news TV channel in India),Indirect,Video,,58000000,,Business,Television,harshad mehta,India,144100
+americanbanker.com,Direct,Text,,23000000,,Finance,Digital article ,b of a,USA,74100
+Buyoutinsider.com,Direct,Text,,4000000,,Business,Digital article ,,USA,0
+Privateequityinternational.com,Direct,Text,,8000000,,Finance,Finance,private equity international,USA,7400
+pehub.com,Direct,Text,,7800000,,Finance,Finance,pehub,USA,58200
+venturecapitaljournal.com,Direct,Text,,7000000,,Finance,Digital Article,venture cpitalist,USA,15400
+thefinancialbrand.com,Direct,Text,,6000000,,Finance,Digital Article,financial brand,USA,15800
+finextra.com,Indirect,Text,,4000000,,Finance,Digital Article,bitcoin halving,USA,22700
+aba.com,Indirect,Text,,178200000,,Finance,Training,routing number,USA,30400
+pymnts.com,Indirect,Text,,34000000,,Finance,Digital Article,nuro kroger grocery delivery,USA,122600
+bankinnovation.net,Indirect,Text,,17000000,,Finance,Banking,bank of america transfer limit,USA,36100
+fintechfutures.com,Indirect,Text,,6100000,,Finance,Digital article,stripe ipo,USA,33600
+ababankmarketing.com,Indirect,Text,,4000000,,Finance,Journal,aba bank,USA,7700
+sepaforcorporates.com,Indirect,Text,,80000000,,Finance,Banking,mt940,Germany,6400
